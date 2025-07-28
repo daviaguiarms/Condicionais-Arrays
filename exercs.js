@@ -6,7 +6,7 @@ const operacao = 'outra'
 if (operacao === 'multiplicação') {
     console.log(num1 + num2);
 } else if (operacao === 'multiplicação') {
-    console.lo      g(num1 * num2);
+    console.log(num1 * num2);
 } else {
     console.log('Operaçao nao identificada');
 
