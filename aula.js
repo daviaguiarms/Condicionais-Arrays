@@ -13,3 +13,5 @@ console.log(array)
  array.splice(1,1) // deletar itens do array 
  console.log(array)
 
+ console.log('Aprendendo a ver o node no terminal')
+
